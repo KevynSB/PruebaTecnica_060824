@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<info_intercambio>
+		<nombre_sistema>SisUno</nombre_sistema>
+		<localizacion>GUATEMALA</localizacion>
+		<numero_tarjeta>1227939-4</numero_tarjeta>
+		<id_cliente>1</id_cliente>
+		<saldo>10000.00</saldo>
+		<fecha_limite>16-02-2023</fecha_limite>		
+	</info_intercambio>
+</Document>
